@@ -34,3 +34,5 @@ Why jupyter !script: 1.Fit for itrative development to track changes
 And                  2.It prints code alongside text and data summaries(presentive)
 Why script !jupyter 1.Is to build a code where you can apply automation
 And                 2. integration to a larger software system
+
+made by Ibrahim
