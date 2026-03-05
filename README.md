@@ -27,3 +27,12 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+
+## When to use each jupyter and script
+Why jupyter !script: 1.Fit for itrative development to track changes
+And                  2.It prints code alongside text and data summaries(presentive)
+Why script !jupyter 1.Is to build a code where you can apply automation
+And                 2. integration to a larger software system
+
+made by Ibrahim
